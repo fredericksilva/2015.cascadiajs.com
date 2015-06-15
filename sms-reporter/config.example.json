@@ -1,0 +1,8 @@
+{
+  "twilio": {
+    "number": "",
+    "accountSid": "",
+    "authToken": ""
+  },
+  "numbers": []
+}

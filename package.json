@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "harp": "^0.14.0",
-    "surge": "^0.5.2"
+    "surge": "^0.5.2",
+    "twilio": "^2.2.1"
   }
 }
