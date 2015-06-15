@@ -8,3 +8,5 @@ node_modules
 
 # Compile directories
 dist/
+
+sms-reporter/config.json
